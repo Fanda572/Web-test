@@ -1,0 +1,17 @@
+*{
+	font-weight: bold;
+	text-align: center;
+	font-family: Roboto, Arial, sans-serif
+}
+pre{
+	color: black;
+	font-size: 300%
+}
+a{
+	color: black;
+	text-decoration: underline;
+	font-size: 300%
+}
+a:hover{
+	color: rgb(181,230,29);
+}
